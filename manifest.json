@@ -1,0 +1,22 @@
+{
+	"catppucin-latte": {
+		"name": "catppuccin-latte",
+		"version": "0.1.0",
+		"author": "Tranhumanist"
+	},
+	"catppucin-frappe": {
+		"name": "catppuccin-frappe",
+		"version": "0.1.0",
+		"author": "Tranhumanist"
+	},
+	"catppucin-macchiato": {
+		"name": "catppuccin-macchiato",
+		"version": "0.1.0",
+		"author": "Tranhumanist"
+	},
+	"catppucin-mocha": {
+		"name": "catppuccin-mocha",
+		"version": "0.1.0",
+		"author": "Tranhumanist"
+	}
+}
